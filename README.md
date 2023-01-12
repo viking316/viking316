@@ -16,7 +16,7 @@ What peaks my interest? \
 ```Technology```\
 ```AOSP```
 
-[![Chandeashekars's GitHub stats](https://github-readme-stats.vercel.app/api?username=viking316&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)\
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viking316&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
