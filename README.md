@@ -4,7 +4,7 @@
 VISITORS
 ## 📜 ABOUT ME
 I am a student at [Ramaiah Polytechinic](https://goo.gl/maps/5VS6xnrxvTohjBtr9) \
-5th sem Computer Science
+final sem Computer Science
 
 Still learning🔄
 
