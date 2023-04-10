@@ -8,7 +8,7 @@ final sem Computer Science
 
 Still learning🔄
 
-What peaks my interest? \
+What piques my interest? \
 \
 ```Artificial Intelligence```\
 ```Machine learning``` \
