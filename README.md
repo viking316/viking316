@@ -3,8 +3,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/viking316/count.svg)\
 VISITORS
 ## 📜 ABOUT ME
-I am a student at [Ramaiah Polytechinic](https://goo.gl/maps/5VS6xnrxvTohjBtr9) \
-final sem Computer Science
 
 Still learning🔄
 
